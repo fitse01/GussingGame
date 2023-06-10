@@ -1,7 +1,6 @@
-```
 # Guessing Game
 
-This is a simple Java console application that allows the user to play a guessing game. The program generates a random number between 0 and 100, and the user has to guess the number within a maximum of 7 attempts.
+- This is a simple Java console application that allows the user to play a guessing game. The program generates a random number between 0 and 100, and the user has to guess the number within a maximum of 7 attempts.
 
 ## How to Play
 
@@ -56,4 +55,4 @@ You guessed the correct number 1! You reached the correct guess after trying 6 t
 
 The game is over. Try again.
 The correct answer is 1.
-
+```
