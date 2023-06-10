@@ -58,6 +58,4 @@ You guessed the correct number 1! You reached the correct guess after trying 6 t
 
 The game is over. Try again.
 The correct answer is 1.
-```
 
-You can copy and paste this example into your README file and replace the content with your own. Remember to use Markdown syntax to format your text to make it more readable and organized.
