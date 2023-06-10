@@ -1,5 +1,3 @@
-Sure, I can help you format your text in a better way using Markdown syntax. Here's an example:
-
 ```
 # Guessing Game
 
