@@ -1,12 +1,17 @@
 # GussingGame
 This is a simple Java console application that allows the user to play a guessing game. 
-The program generates a random number between 0 and 100, and the user has to guess the number within a maximum of 7 attempts.
+The program generates a random number between 0 and 100, and the user has to guess the n
+umber within a maximum of 7 attempts.
 
 How to Play
 1, Clone the repository to your local machine.
+
 2, Open a terminal or command prompt and navigate to the project directory.
+
 3,Compile the program by running the following command: javac Gussinggame.java
+
 4,Start the game by running the following command: java Gussinggame
+
 5,Follow the instructions on the screen to play the game.
 
 Rules
